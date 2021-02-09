@@ -1,5 +1,5 @@
 # isomacprog <br />
-Convert 32 Bit Mac Pro Efi ISO's to Bios Only <br />
+Convert 64Bit EFI ISO's to work for 32Bit EFI Mac Pro in Bios only mode.<br />
 <br />
 Use Prepackaged Bins or Compile. <br />
 cc -g -Wall isomacprog.c.txt. -o isomacprog <br />
