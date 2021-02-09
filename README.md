@@ -7,4 +7,6 @@ cc -g -Wall isomacprog.c.txt. -o isomacprog <br />
 cp original.iso macversion.iso <br />
 ./isomacprog macversion.iso <br />
  <br />
-Original Author: mattgadient.com <br />
+Original Author: <br />
+https://mattgadient.com/linux-dvd-images-and-how-to-for-32-bit-efi-macs-late-2006-models/ <br />
+mattgadient.com <br />
